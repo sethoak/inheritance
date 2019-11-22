@@ -1,0 +1,11 @@
+C:\Users\Oakley\desktop\workspace\Csharp-InheritanceExercise\obj\Debug\netcoreapp3.0\Csharp-InheritanceExercise.csprojAssemblyReference.cache
+C:\Users\Oakley\desktop\workspace\Csharp-InheritanceExercise\obj\Debug\netcoreapp3.0\Csharp-InheritanceExercise.AssemblyInfoInputs.cache
+C:\Users\Oakley\desktop\workspace\Csharp-InheritanceExercise\obj\Debug\netcoreapp3.0\Csharp-InheritanceExercise.AssemblyInfo.cs
+C:\Users\Oakley\desktop\workspace\Csharp-InheritanceExercise\bin\Debug\netcoreapp3.0\Csharp-InheritanceExercise.exe
+C:\Users\Oakley\desktop\workspace\Csharp-InheritanceExercise\bin\Debug\netcoreapp3.0\Csharp-InheritanceExercise.deps.json
+C:\Users\Oakley\desktop\workspace\Csharp-InheritanceExercise\bin\Debug\netcoreapp3.0\Csharp-InheritanceExercise.runtimeconfig.json
+C:\Users\Oakley\desktop\workspace\Csharp-InheritanceExercise\bin\Debug\netcoreapp3.0\Csharp-InheritanceExercise.runtimeconfig.dev.json
+C:\Users\Oakley\desktop\workspace\Csharp-InheritanceExercise\bin\Debug\netcoreapp3.0\Csharp-InheritanceExercise.dll
+C:\Users\Oakley\desktop\workspace\Csharp-InheritanceExercise\bin\Debug\netcoreapp3.0\Csharp-InheritanceExercise.pdb
+C:\Users\Oakley\desktop\workspace\Csharp-InheritanceExercise\obj\Debug\netcoreapp3.0\Csharp-InheritanceExercise.dll
+C:\Users\Oakley\desktop\workspace\Csharp-InheritanceExercise\obj\Debug\netcoreapp3.0\Csharp-InheritanceExercise.pdb
